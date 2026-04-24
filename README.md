@@ -1,4 +1,4 @@
-# Shop API (NestJS Clean Architecture)
+#API (NestJS Clean Architecture)
 
 โปรเจกต์ตัวอย่างการสร้าง API สำหรับระบบจัดการสินค้า (Product Management) โดยใช้ **NestJS** พัฒนาภายใต้แนวคิด **Clean Architecture** และ **SOLID Principles** เพื่อแสดงถึงโครงสร้างโค้ดที่รองรับการขยายตัวและง่ายต่อการทำ Unit Test
 
